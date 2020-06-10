@@ -1,1 +1,1 @@
-let casa = "esta en proceso"
+let casa = "es un desastre"

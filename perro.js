@@ -1,1 +1,1 @@
-let perro = "Es lindo pero es un culiado"
+let perro = "Se la pasa durmiendo"
