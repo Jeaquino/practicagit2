@@ -1,2 +1,2 @@
-let auto = "tiene 4 ruedas"
 let conflicto = "va a aparecer un error"
+let auto = "me lo robaron"
