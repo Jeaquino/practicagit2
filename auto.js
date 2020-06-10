@@ -1,1 +1,1 @@
-let auto = "Aun esta lejos xD"
+let auto = "Aún esta lejos"
