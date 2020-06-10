@@ -1,0 +1,1 @@
+let perro = "Es lindo pero es un culiado"
